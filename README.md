@@ -5,10 +5,7 @@ Have you ever wanted a mutable a boolean?
 Requires Java 21+
 
 ```java
-import dev.mccue.mutabool.Mutabool;
-
-import java.io.IO;
-import java.util.List;
+import module dev.mccue.mutabool;
 
 void main() {
     var allEven = new Mutabool(true);
