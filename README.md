@@ -1,6 +1,6 @@
 # MUTABOOLS
 
-Have you ever wanted a mutable a boolean?
+Have you ever wanted a mutable boolean?
 
 Requires Java 21+
 
